@@ -14,26 +14,27 @@ body {
 }
 
 .icons {
-    padding-left: 25.2%;
+    text-align: center;
+    padding-right: 1.5%
 }
 
 .hype {
-    padding-right: 2%;
+    padding: 0 .5%;
     color: #E3EEF8;
 }
 
 .twitter {
-    padding-right: 2%;
+    padding: 0 .5%;
     color: #E3EEF8;
 }
 
 .twitch {
-    padding-right: 2%;
+    padding: 0 .5%;
     color: #E3EEF8;
 }
 
 .youtube {
-    padding-right: 2%;
+    padding: 0 .5%;
     color: #E3EEF8;
 }
 
